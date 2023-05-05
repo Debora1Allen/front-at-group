@@ -29,9 +29,10 @@ h1{
     width:96px ;
     border: 5px solid #FFFFFF;
     border-radius: 50%;
-    margin: 92px 127px 55px 200px ;
+    float: left;
     text-align: center;
     justify-content: center;
     align-items: center;
+    margin-left: 90%;
 }
 
